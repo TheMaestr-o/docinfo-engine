@@ -3,7 +3,7 @@
 // ==================================================================================
 // DocInfo Engine
 // Version: 1.3
-// Author: Ohnedan (adapted November 2025)
+// Author: TheMaestr-o (adapted November 2025)
 // English:
 // This script collects the key technical specifications of the active Photoshop document:
 // - Dimensions in pixels (px), centimeters (cm), and inches (in).
